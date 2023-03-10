@@ -1,0 +1,19 @@
+{
+  "name": "samcsv",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "alpinejs": "^3.12.0",
+    "autoprefixer": "^10.4.14",
+    "papaparse": "^5.4.0",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.7",
+    "vite": "^4.1.0"
+  }
+}
